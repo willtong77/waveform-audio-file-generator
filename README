@@ -1,0 +1,12 @@
+TEAM MEMBERS
+
+John Han jhan62
+William Tong wtong10
+
+Will wrote io.c. Will and John both contributed to writing wave.c, 
+render_song.c. In wave.c, John wrote the generate_wave functions and mix_in,
+ while Will wrote compute_pan, apply_gain, and apply_adsr_envelope. John 
+ wrote the bulk of render_tone.c and render_echo.c, and both Will and John 
+ corrected various errors and introduced new algorithms for the programs. 
+ John wrote the Makefile as well.
+ 

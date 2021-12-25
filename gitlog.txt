@@ -1,0 +1,610 @@
+commit 9a8fc90c96cf3f7152924ee97b7cd662e93b51c7
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 25 16:19:56 2021 -0700
+
+    final formatting fixes
+
+commit 3285cc592383763d0fe87ce433b2b70d49743ccf
+Merge: 5fd1b36 e1cbbfd
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 25 16:12:42 2021 -0700
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit 5fd1b36bd7ed8e58c84da45564ed95dde3bed5c9
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 25 16:12:33 2021 -0700
+
+    finished README
+
+commit e1cbbfd89c0b8158080305a9d48379556319311a
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 19:12:13 2021 -0400
+
+    Cleaned up code, changed print statement in render_echo to fatal_error call
+
+commit 9a55cd80e8396c123615b0d13585b6a1849a38d1
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 25 16:06:02 2021 -0700
+
+    cleaned up wave.c and render_tone.c and added comments
+
+commit 7c85fe925f145fe4a1a32cf3787a6945caed80ed
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 18:51:39 2021 -0400
+
+    syncing repository
+
+commit 176ef33f9efdec116a771d5d661e9120f938a7c2
+Merge: 295cc8a 6fb6f60
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 16:17:26 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit 295cc8a819442b7de9d4c8bfea075260195cc1b1
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 16:17:13 2021 -0400
+
+    changed malloc call to calloc
+
+commit 6fb6f602360a1aaea0376af6a3d1f979ee3c311a
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 25 07:52:11 2021 -0700
+
+    got rid of a warning
+
+commit 5b24f18a90a670ee95125ed0d09cbebfa28dfe7a
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 03:58:33 2021 -0400
+
+    minor changes
+
+commit f99be4ebbbb3c5792edd6fd7f241b6307d1728b5
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 03:41:50 2021 -0400
+
+    added small changes to render_echo
+
+commit da4c42ffaa9483077ab9df3757bac837d978ba91
+Merge: ab2eb56 9d3faae
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 03:22:20 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit ab2eb561c2328ea5b0b67f68c71cc6263a114085
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 03:22:06 2021 -0400
+
+    syncing to github
+
+commit 9d3faae3f90f6ccd2ee5d28bfef3f565d65d3f60
+Merge: 9121d73 9c95af1
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 25 00:08:18 2021 -0700
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit 9121d73cc1d3fcbd207df5f585c72619251e8490
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 25 00:07:46 2021 -0700
+
+    tried a bunch of things
+
+commit 9c95af15f83bf92b728cf33b28dd9d9d494869b7
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 03:06:08 2021 -0400
+
+    cleaned up code and error checking print statements
+
+commit 585f00bf0726af35b8efd7e11a53def98ae20882
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 23:36:07 2021 -0700
+
+    trying a bunch of things
+
+commit 2ac675cb0917c746ed66b257abaf92d3edf45e04
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 23:25:28 2021 -0700
+
+    bug fixed echo
+
+commit b96c9f482487b0fbbf6bd2de42833888834a06da
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 02:19:42 2021 -0400
+
+    slightly changed syntax for adsr
+
+commit 8f163bb481389619b4b2fd242e04a2da5003f2b4
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 23:08:22 2021 -0700
+
+    more bugfixes in _song and _tone
+
+commit 23849b8a89aea23b86426e21a4efde2439ef664d
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 23:07:30 2021 -0700
+
+    bugfix in render_tone.c
+
+commit 4c60694d3fcf5f6947a855fb5da8496076bef565
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 23:04:30 2021 -0700
+
+    added README
+
+commit db78aaa44fecabdaf64391675072c061812df0fe
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 23:04:22 2021 -0700
+
+    added README
+
+commit 86bd66ccd94fe64657c1588aab635601066270fb
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 01:59:55 2021 -0400
+
+    adjusted pointer arithmetic in render_song
+
+commit 26ab5f7401f9d5369422dc8621e16622ca093645
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 01:40:53 2021 -0400
+
+    fixed part of render_song
+
+commit 7e79af34c2b8d259519999838b876a8aeb1c6dec
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 01:31:08 2021 -0400
+
+    ignore render_song, edited render_song.c so no errors
+
+commit 274b2439fe38c0c3c57828978c8bbb9159bac48e
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 01:20:28 2021 -0400
+
+    changed render_song, segmentation fault core dumped error
+
+commit 4952a1bd58009f1172f1f61e7a1efa966e082fcd
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 25 01:00:09 2021 -0400
+
+    reformmated render_song N directive
+
+commit 2d28f466b41b446af9cdb7b889afc403e9266ad9
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 21:49:17 2021 -0700
+
+    what are we doing wrong
+
+commit f597b5c8ce911d86fef1a281078ee023f0ad059f
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 21:39:23 2021 -0700
+
+    dunno why the gain is off :(
+
+commit cdc153bd618cc5980b6c61e36db01183844c8f39
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 21:32:05 2021 -0700
+
+    working on the gains
+
+commit df9e2a9072eed331a7820e024839ed600d9c218a
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 21:24:05 2021 -0700
+
+    fixed adsr and render_song
+
+commit 281136bc7d11a6611f48d489f318ecd4113b7839
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 20:56:28 2021 -0700
+
+    more changes
+
+commit 151e6f2a987b3aa8c9ea43850e83679b27ca9cf9
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 20:55:48 2021 -0700
+
+    made some changes to wave.c
+
+commit 257fd9d214a118de727de578162bebe92547f683
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 20:48:59 2021 -0700
+
+    fixed a bug in render_echo
+
+commit b7918cfde75b92965b0b231f7b56654a864a773f
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 20:39:37 2021 -0700
+
+    fixed some things in asdr
+
+commit f32c155d7979323499f738d42ff3d6f7bb2304f2
+Author: Will Tong <wtong10@jh.edu>
+Date:   Wed Mar 24 23:21:49 2021 -0400
+
+    testing new method for saw
+
+commit 173984675c961de2827c36f59708d7d252eb929f
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 19:00:50 2021 -0700
+
+    excluded num_samples in spliced functions in wave.c
+
+commit 63145789908684cd6d81d9dee5a730f779d626ac
+Author: John Han <jhan62@jhu.edu>
+Date:   Wed Mar 24 18:59:07 2021 -0700
+
+    used generate_x_spliced in render_song to increase speed
+
+commit 496325285e2364c77b5c390b32c26383ea519407
+Author: Will Tong <wtong10@jh.edu>
+Date:   Wed Mar 24 21:41:33 2021 -0400
+
+    added generate wave spliced function declarations to header file, changed dynamic allocation for mono buffer arrays in render_song
+
+commit c9ba9fa02833fb5a06711c4a4b985970305b83ba
+Author: Will Tong <wtong10@jh.edu>
+Date:   Wed Mar 24 21:26:02 2021 -0400
+
+    added addition wave generate functions to optimize function calls in render_song.c
+
+commit d22b8926164382a2f9cf03570540b08da4c2ffe4
+Author: Will Tong <wtong10@jh.edu>
+Date:   Wed Mar 24 19:40:54 2021 -0400
+
+    fixed adsr
+
+commit aa7623eba7eb1eaa1e709c041d469be49b842de8
+Merge: b027d61 71ae643
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 23 22:46:46 2021 -0400
+
+    merge conflict resolution
+
+commit b027d61638faddafa65937165debb49ca7b8592d
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 23 22:44:44 2021 -0400
+
+    changes to malloc call
+
+commit 71ae643e2588abae4a162d2bee7a9d917876c415
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 23 19:40:16 2021 -0700
+
+    render_song.c took out printf
+
+commit edbbc67d8630d961db9c7ca4dbb30bd754cb143c
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 23 19:38:25 2021 -0700
+
+    used calloc in render_song to initialize values to 0
+
+commit 4f17afe23210f1321827b7eaba00638dcea703cd
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 23 19:36:18 2021 -0700
+
+    changed render_tone.c to use calloc to initialize values to 0
+
+commit 425530aebb51df1973dfca9b5509cddebfd70396
+Merge: c5159c3 8fd8e0f
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 23 22:18:12 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit c5159c3850d583391836f0d422d1ee316130241c
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 23 22:17:56 2021 -0400
+
+    changed all sample arrays to be dynamically allocated to prevent space issues and freed them
+
+commit 8fd8e0f3a8d3cf7da60f406fffab9744c18d218b
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 23 19:13:26 2021 -0700
+
+    changed render_echo to use heap for raw data array
+
+commit 5db0912c546358e0d1bd32ff256854454f59f1df
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 23 19:02:33 2021 -0700
+
+    finished first rendition of render_echo.c
+
+commit ff3cee19a55a37fbe4b1533237f020ed53110024
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 23 18:38:59 2021 -0700
+
+    fixed a type error in render_song and started render_echo
+
+commit 6ba056f2696aeeb0563f82bfce29fe93dd37332c
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 23 21:29:42 2021 -0400
+
+    added additional apply_gain call
+
+commit 47ecea8c6cca247abe7ef1fb41c85e3320dfdb78
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 23 16:42:57 2021 -0700
+
+    implemented render_song.c
+
+commit a2615dfa16b386ec453ed4dc20f3db70d29b3d15
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 23 01:40:32 2021 -0400
+
+    added implementation for N directive. have not yet tested but i know it doesn't work
+
+commit 76ac126ec5ec0358833486ace50add1ca7b31789
+Author: Will Tong <wtong10@jh.edu>
+Date:   Mon Mar 22 15:59:51 2021 -0400
+
+    removed unused variables, changed temp type from int16 to int32 in saw
+
+commit 2522ee6fffb8da822ca4190069d3199c3a1f65f1
+Author: John Han <jhan62@jhu.edu>
+Date:   Sun Mar 21 21:53:58 2021 -0700
+
+    fixed generate saw_wave
+
+commit 83debbce44342792653a19fd2dbe6ca0378240e8
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sun Mar 21 22:41:08 2021 -0400
+
+    minor changes to saw
+
+commit c88febe30977a9a6e741a96f4944f1cf1838ae0f
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sun Mar 21 22:19:48 2021 -0400
+
+    minor changes to saw
+
+commit 33b81bba54b6a36d25783ada8e046f7891987a6d
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sun Mar 21 21:30:58 2021 -0400
+
+    tried to fix sawtooth, still not working.
+
+commit 7713ec133699c602a15c8f69eaf92e1104bf900c
+Author: John Han <jhan62@jhu.edu>
+Date:   Sun Mar 21 08:45:51 2021 -0700
+
+    fixed square wave, saw wave works but sounds slightly off
+
+commit cf5cab2ee7891b7cd3ddde0a9857dbacbe900007
+Merge: 5d78aa5 7983047
+Author: John Han <jhan62@jhu.edu>
+Date:   Sun Mar 21 08:19:46 2021 -0700
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit 5d78aa5471b98805c0b0ae97099dafc977468513
+Author: John Han <jhan62@jhu.edu>
+Date:   Sun Mar 21 08:19:30 2021 -0700
+
+    fixed generate sine wave to use time
+
+commit 79830476d755c506290f3483508b151f38110d5d
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sat Mar 20 17:09:52 2021 -0400
+
+    added implementations for all directives except for N to render_song.c
+
+commit 5143b9b6ac803afdd7f73005c3100fd0690aba47
+Author: John Han <jhan62@jhu.edu>
+Date:   Sat Mar 20 13:45:54 2021 -0700
+
+    initialized all elements of stereo_buf to 0
+
+commit 941a2bf2e6f6e70726db0de29a517ed7c503f50e
+Author: John Han <jhan62@jhu.edu>
+Date:   Sat Mar 20 13:44:02 2021 -0700
+
+    fixed some things in render_tone.c
+
+commit fa54f44936e26eed7a8f2d74e364911092365b6d
+Merge: 4758963 9bcdb12
+Author: John Han <jhan62@jhu.edu>
+Date:   Sat Mar 20 13:22:27 2021 -0700
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit 47589630dfbea1d995dd3a4e676fcd1e79250f22
+Author: John Han <jhan62@jhu.edu>
+Date:   Sat Mar 20 13:21:38 2021 -0700
+
+    made final adjustments to Makefile
+
+commit 9bcdb129974e29c660aee46fa9fd2e6661064e1c
+Merge: 4c87d79 099d14e
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sat Mar 20 16:14:52 2021 -0400
+
+    merge conflict
+
+commit 4c87d79e79601c351d7f89cdda02870a5bf8e2be
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sat Mar 20 16:11:24 2021 -0400
+
+    started on render_song.c, defined Instrument struct, file incomplete.
+
+commit 099d14eec95a79e222b29c4d45fbae54066dc25f
+Author: John Han <jhan62@jhu.edu>
+Date:   Sat Mar 20 12:51:58 2021 -0700
+
+    added C-string to primitive conversion in render_tone.c and fixed a few warnings/errors in wave.c. added make all target in Makefile
+
+commit 716c84af54b6bc0ab1674b9813c5e6e7dfa59f12
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sat Mar 20 15:21:50 2021 -0400
+
+    commented out declaration for sustain slope in adsr function
+
+commit 40004fc4f8e5c04436a9ba7f8237f97c692d25b7
+Author: John Han <jhan62@jhu.edu>
+Date:   Thu Mar 18 22:11:32 2021 -0700
+
+    fixed apply_adsr since i gets incremented after for loop ends
+
+commit 4d158e0f21b7f33fd046262263964c018d816927
+Author: Will Tong <wtong10@jh.edu>
+Date:   Thu Mar 18 21:02:54 2021 -0400
+
+    Added implementation for apply_adsr_envelope, not yet tested.
+
+commit 1f4c1ba96e657008725c4fa1050456d14c3ff309
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 16 23:51:53 2021 -0400
+
+    added implementation for compute_pan (not yet tested) and minor formatting changes.
+
+commit 1137d92e738968a1276f47e6337c633b5245b053
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 16 20:40:28 2021 -0700
+
+    implemented mix_in
+
+commit a438b2d4d2095d02793adf6f42dff29f80ed2fd6
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 16 23:38:52 2021 -0400
+
+    added some casting to generate_sawtooth
+
+commit 39f497f899d2c58fb63ce736eca19ddcb3899c7a
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 16 20:30:51 2021 -0700
+
+    wave.c
+
+commit 467ae547ce4ebc8d49590122143b2da3d34a11e7
+Merge: f5721c1 a19c0a5
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 16 20:30:03 2021 -0700
+
+    implemented mix_in
+
+commit f5721c1e206e2b8db313464a00961fcdc9326577
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 16 20:26:25 2021 -0700
+
+    implemented mix_in
+
+commit a19c0a5a7917d7d2bd9a5dc0da61d370782ad9e4
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 16 23:23:36 2021 -0400
+
+    implemented apply_gain with clipping. not yet tested.
+
+commit c65e3adcb378d5b704223ea4587385c8d1d287ed
+Author: John Han <jhan62@jhu.edu>
+Date:   Tue Mar 16 20:08:25 2021 -0700
+
+    fixed sawwave so that the temp is int32 to contain values greater than int16
+
+commit 218d1598f819ca59f4ff8eafb5a3978ca401ae55
+Author: John Han <jhan62@jhu.edu>
+Date:   Mon Mar 15 23:46:47 2021 -0700
+
+    tried some implementations of generate sine, square, and saw wave. also defined a int16 max and min value in wave.h
+
+commit 74e4c013aa32d2e0b9de76491bc61f7441658927
+Author: John Han <jhan62@jhu.edu>
+Date:   Mon Mar 15 23:30:26 2021 -0700
+
+    added todo's for render_tone.c
+
+commit ba4bcbc4d6f816c1dd9c241ad966e63836d1d90a
+Author: John Han <jhan62@jhu.edu>
+Date:   Mon Mar 15 23:28:31 2021 -0700
+
+    added some error checking of command line args
+
+commit 76b78744d824ffa7f4644f0a1e00f27d17fc57e3
+Author: John Han <jhan62@jhu.edu>
+Date:   Mon Mar 15 23:27:13 2021 -0700
+
+    finished render_tone.c, untested.
+
+commit 29b1d41cd6ba38d785e39dc74fd2953def011d61
+Author: John Han <jhan62@jhu.edu>
+Date:   Mon Mar 15 22:38:36 2021 -0700
+
+    fixed some Makefile issues, but for some reason make render_echo doesn't work
+
+commit dc079c2a159f7a9eea28c35987a90c96c0be4337
+Author: John Han <jhan62@jhu.edu>
+Date:   Sun Mar 14 18:27:21 2021 -0700
+
+    added some function headers for wave.c
+
+commit ff5bcd3b7ab2c9830f493fb1363645861e1791b8
+Merge: ac9dd20 ba57089
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sun Mar 14 21:25:36 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhan62-wtong10
+
+commit ac9dd2086cbb3f0893dde4258fcc2579eb9e5b24
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sun Mar 14 21:25:19 2021 -0400
+
+    changed variable type storing return value of fread and fwrite in write_bytes and read_bytes from int to long to account for larger data files.
+
+commit ba57089685c22d0e7ecce7de5eac3a41920cd874
+Author: John Han <jhan62@jhu.edu>
+Date:   Sun Mar 14 18:20:08 2021 -0700
+
+    added to Makefile
+
+commit bcaad4165f82801f3069ade2af8027a54b4911aa
+Author: John Han <jhan62@jhu.edu>
+Date:   Sun Mar 14 18:19:34 2021 -0700
+
+    added to Makefile and started render_echo.c
+
+commit 159dc85c5bd2e6151cecbfd4a3b55d6b014c9e0d
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sun Mar 14 21:17:18 2021 -0400
+
+    commented out main() function for testing in io.c
+
+commit ad0a233ff904bd6d698d3adae255d066e4ffc53a
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sun Mar 14 21:12:31 2021 -0400
+
+    edited io.c test cases. added better error checking in io.c functions. io.c functions now working
+
+commit 5e79be73df7c1e92b69e8e41033462a5eb60006b
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sat Mar 13 20:10:13 2021 -0500
+
+    added test cases for io.c. io.c not functioning properly.
+
+commit 794e05789c2a053af1cddd5a31869b16896b289d
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sat Mar 13 19:15:35 2021 -0500
+
+    fully declared all functions, NOT YET TESTED
+
+commit 92d64e7ba71ebd7b1fb7f3490314f906b8b9f49c
+Author: John Han <jhan62@jhu.edu>
+Date:   Sat Mar 13 15:28:38 2021 -0800
+
+    made render_song.c and render_tone.c and first rendition of Makefile
+
+commit b52876553291845d660a8f7755097a3217c08134
+Author: John Han <jhan62@jhu.edu>
+Date:   Sat Mar 13 14:48:41 2021 -0800
+
+    fixed fatal_error
+
+commit 8db8c2bfe5e00c877250bf56d705992ed6c8032e
+Author: Will Tong <wtong10@jh.edu>
+Date:   Sat Mar 13 17:46:31 2021 -0500
+
+    added some definitions for io.c
+
+commit 2175048721ee56fd00e68a1852cb01c5c88484d6
+Author: Will Tong <wtong10@jh.edu>
+Date:   Tue Mar 9 15:53:57 2021 -0500
+
+    Initialized with the starter codes
